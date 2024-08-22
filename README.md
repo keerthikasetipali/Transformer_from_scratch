@@ -50,7 +50,11 @@ If you are interested in learning more about the Transformer architecture, I rec
 
 Attention Is All You Need paper.
 The Illustrated Transformer by Jay Alammar by Jay Alammar.
+
 Pytorch Transformers from Scratch by Aladdin Persson.
+
 The Annotated Transformer by Sasha Rush.
+
 Understanding and Coding the Self-Attention Mechanism of Large Language Models From Scratch by Sebastian Raschka.
+
 TRANSFORMERS FROM SCRATCH by Peter Bloem.
