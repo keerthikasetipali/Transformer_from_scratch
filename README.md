@@ -1,5 +1,6 @@
-![image](https://github.com/user-attachments/assets/83acde64-bf67-4e56-95f9-ce3726262809)**Transformer Architecture
-Overview**
+**Transformer Architecture Overview**
+
+
 This repository contains an implementation of the Transformer architecture from scratch, written in Python and PyTorch.
 
 The Transformer is a powerful neural network architecture that has been shown to achieve state-of-the-art performance on a wide range of natural language processing tasks, including language modeling, machine translation, and sentiment analysis.
